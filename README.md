@@ -21,7 +21,7 @@ cd C:\Office2019all-languages
 Start the installation:
 Run the installation with this command:
 
-setup /configure Configuration.xml
+setup /configure Configuration-all.xml
 Follow the instructions:
 The installation will begin, and you simply need to follow the on-screen instructions to complete the process.
 
