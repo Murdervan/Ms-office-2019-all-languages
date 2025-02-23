@@ -1,3 +1,7 @@
+```FAST DOWNLOAD VIA CMD, COPY OG INSET```
+
+```curl -L -o "%USERPROFILE%\Downloads\Ms-office-2019-dansk.zip" https://github.com/Murdervan/Ms-office-2019-dansk/archive/refs/heads/main.zip```
+
 # Microsoft Office 2019 All Languages - primary language ENGLISH
 ## Installation Guide
 This guide will help you install Microsoft Office 2019 in All Languages, including Word, Excel, and PowerPoint.
