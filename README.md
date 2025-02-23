@@ -31,6 +31,3 @@ SOURCES:
 https://config.office.com/deploymentsettings
 
 https://www.microsoft.com/en-in/download/details.aspx?id=49117
-
-About
-Microsoft Office 2019 all langauges includes Word, Excel, and PowerPoint.
