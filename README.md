@@ -1,6 +1,6 @@
 ```FAST DOWNLOAD VIA CMD, COPY OG INSET```
 
-```curl -L -o "%USERPROFILE%\Downloads\Ms-office-2019-dansk.zip" https://github.com/Murdervan/Ms-office-2019-dansk/archive/refs/heads/main.zip```
+```curl -L -o "%USERPROFILE%\Downloads\Ms-office-2019-all-languages.zip" https://github.com/Murdervan/Ms-office-2019-all-languages/archive/refs/heads/main.zip```
 
 # Microsoft Office 2019 All Languages - primary language ENGLISH
 ## Installation Guide
