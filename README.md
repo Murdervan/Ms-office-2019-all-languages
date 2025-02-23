@@ -1,4 +1,4 @@
-# Microsoft Office 2019 All Languages
+# Microsoft Office 2019 All Languages - primary language ENGLISH
 ## Installation Guide
 This guide will help you install Microsoft Office 2019 in All Languages, including Word, Excel, and PowerPoint.
 
@@ -26,6 +26,7 @@ Follow the instructions:
 The installation will begin, and you simply need to follow the on-screen instructions to complete the process.
 
 SOURCES:
+https://config.office.com/deploymentsettings
 
 About
 Microsoft Office 2019 all langauges includes Word, Excel, and PowerPoint.
