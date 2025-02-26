@@ -1,3 +1,9 @@
+<div align="left">
+  
+  ### Check out my other 
+  
+  [![Repositories](https://img.shields.io/badge/Repositories-Murdervan-blue?style=for-the-badge&logo=github)](https://github.com/Murdervan?tab=repositories)
+</div>
 <div align="right">
   <a href="https://github.com/Murdervan/Ms-office-2019-all-languages">
     <img src="https://img.shields.io/github/stars/Murdervan/Ms-office-2019-all-languages?style=social&label=Stars" alt="GitHub stars"/>
@@ -14,12 +20,6 @@
   </a>
 </div>
 
-<div align="right">
-  
-  ### Check out my other 
-  
-  [![Repositories](https://img.shields.io/badge/Repositories-Murdervan-blue?style=for-the-badge&logo=github)](https://github.com/Murdervan?tab=repositories)
-</div>
 
 ### FAST DOWNLOAD VIA CMD, COPY OG PASTE
 
