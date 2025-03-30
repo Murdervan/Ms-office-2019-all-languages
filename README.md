@@ -56,6 +56,11 @@ Follow the instructions:
 
 The installation will begin, and you simply need to follow the on-screen instructions to complete the process.
 
+Office 2019 Professional Plus Product Key :
+```powerhsell
+BN8D3-W2QKT-M7Q73-Y3JWK-KQC63
+```
+
 SOURCES:
 
 https://config.office.com/deploymentsettings
